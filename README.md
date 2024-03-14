@@ -1,3 +1,7 @@
+# What is this tutorial?
+
+I wanted to get familiar with vue and a python backend so I searched for tutorials that had both. I found this [tutorial](https://www.youtube.com/watch?v=lenV5aVOMp8&t=1850s). It really helped consolidate my understanding on the connection between a frontend and a backend whilst helping me learn and understand Vue.js.
+
 ## frontend
 
 ### Project setup
